@@ -88,8 +88,8 @@
 - https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp?hl=en
 
 ## File Sharing 
-
 - https://wormhole.app/
+- https://snapdrop.net/
 
 # Python Bots & Scripts
 
