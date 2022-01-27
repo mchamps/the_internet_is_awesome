@@ -54,7 +54,6 @@
 | Voiceovers |  | https://www.listnr.tech/ |
 | Profile Pic Maker |  | https://pfpmaker.com/ |
 | Jitter |  | https://jitter.video/ |
-|  |  |  |
 | Pixabay |  | https://pixabay.com |
 | AllTheFreeStock |  | https://allthefrestock.com |
 |  |  | https://kamua.com/ |
