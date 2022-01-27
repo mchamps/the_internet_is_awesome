@@ -19,13 +19,15 @@
 |  |  | https://www.instructionalsolutions.com/jargon-grader |
 
 ### Marketing
-- Billion Dollar Pitch Decks - https://www.billiondollarpitchdecks.com/
-- https://www.zerotomarketing.com/
-- https://improvmx.com/
-- Really Good Emails https://reallygoodemails.com/
-- First 1000 - https://www.first1000.co/
-- https://headlime.com/
-- https://chrome.google.com/webstore/detail/lavender/necbalcggglceeioaehdbkpbldmoabii?hl=en
+| Name | Description | URL |
+|---|---|---|
+| Billion Dollar Pitch Decks |  | https://www.billiondollarpitchdecks.com/ |
+|  |  | https://www.zerotomarketing.com/ |
+|  |  | https://improvmx.com/ |
+| Really Good Emails |  | https://reallygoodemails.com/ |
+| First 1000 |  | https://www.first1000.co/ |
+|  |  | https://headlime.com/ |
+|  |  | https://chrome.google.com/webstore/detail/lavender/necbalcggglceeioaehdbkpbldmoabii?hl=en |
 
 ## Forms
 - Jotform - https://www.jotform.com/
