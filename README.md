@@ -51,6 +51,7 @@
 - https://www.synthesia.io/
 - https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji?hl=en
 - https://clipdrop.co/
+- https://www.bannerbear.com/
 
 
 # Software Development
@@ -81,6 +82,10 @@
 - https://illustrationkit.com/
 - https://www.artify.co/vector-illustrations
 - https://www.glorify.com/
+- https://webflow.com/
+
+## Data
+- https://www.lobe.ai/
 
 ## SEO
 - https://ahrefs.com/
