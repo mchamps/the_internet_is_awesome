@@ -93,25 +93,28 @@
 |  |  | https://bubble.io |
 |  |  | https://www.directual.com |
 |  |  | https://www.wappalyzer.com/ |
+
 ### UI/UX
-- Framer - https://www.framer.com/
-- Mockuuups Studio - https://mockuuups.studio/
-- Graphite - https://graphite.space/
-- https://vas.3m.com/
-- meshgradients.design
-- https://ui.glass/
-- http://khroma.co/
-- lordicon.com/icons
-- Microsoft Clarity - https://clarity.microsoft.com/
-- Vev - https://www.vev.design/
-- Typedream - https://typedream.com/
-- https://fontjoy.com/
-- https://www.uihut.com/
-- https://www.artify.co/
-- https://illustrationkit.com/
-- https://www.artify.co/vector-illustrations
-- https://www.glorify.com/
-- https://webflow.com/
+| Name | Description | URL |
+|---|---|---|
+| Framer |  | https://www.framer.com/ |
+| Mockuuups Studio |  | https://mockuuups.studio/ |
+| Graphite |  | https://graphite.space/ |
+|  |  | https://vas.3m.com/ |
+|  |  | meshgradients.design |
+|  |  | https://ui.glass/ |
+|  |  | http://khroma.co/ |
+|  |  | lordicon.com/icons |
+| Microsoft Clarity |  | https://clarity.microsoft.com |
+| Vev |  | https://www.vev.design/ |
+| Typedream |  | https://typedream.com/ |
+|  |  | https://fontjoy.com/ |
+|  |  | https://www.uihut.com/ |
+|  |  | https://www.artify.co/ |
+|  |  | https://illustrationkit.com/ |
+|  |  | https://www.artify.co/vector-illustrations |
+|  |  | https://www.glorify.com/ |
+|  |  | https://www.webflow.com/ |
 
 ### Data
 - https://www.lobe.ai/
