@@ -20,7 +20,7 @@
 
 ### Presentations & Design
 
-|Name |Description |URL |
+| Name | Description | URL |
 | ------ | ------ | ------ |
 | mmhmm |  | https://www.mmhmm.app/ |
 | Pitch | Very close to prezi | https://pitch.com/ |
@@ -85,13 +85,14 @@
 # Software Development
 
 ### Coding
-- No Code Devs - https://www.nocodedevs.com/
-- copilot.github.com
-- Sourcery.ai (python refactoring) - https://sourcery.ai/
-- https://bubble.io/
-- https://www.directual.com/
-- https://www.wappalyzer.com/
-
+| Name | Description | URL |
+|---|---|---|
+| No Code Devs |  | https://www.nocodedevs.com/ |
+|  |  | https://copilot.github.com |
+| Sourcery.ai | Python refactor insights / auto peer review | https://sourcery.ai/ |
+|  |  | https://bubble.io |
+|  |  | https://www.directual.com |
+|  |  | https://www.wappalyzer.com/ |
 ### UI/UX
 - Framer - https://www.framer.com/
 - Mockuuups Studio - https://mockuuups.studio/
