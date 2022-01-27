@@ -30,36 +30,40 @@
 |  |  | https://chrome.google.com/webstore/detail/lavender/necbalcggglceeioaehdbkpbldmoabii?hl=en |
 
 ## Forms
-- Jotform - https://www.jotform.com/
+| Name | Description | URL |
+|---|---|---|
+| Jotform |  | https://www.jotform.com/ |
 
 ## Social
-- LinkedIn Social Selling Index - https://www.linkedin.com/sales/ssi
-- https://hunter.io/
-- https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en
-
+| Name | Description | URL |
+|---|---|---|
+| LinkedIn Social Selling Index |  | https://www.linkedin.com/sales/ssi|
+|  |  | https://hunter.io/ |
+|  |  | https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en |
 
 ## Video & Photo Editing
-- Photopea (Better than photoshop & it's in your browser for free) - https://www.photopea.com/ 
-- mixkit (Free Videos b-roll type stuff) - https://mixkit.co/
-- https://www.veed.io/
-- https://www.descript.com/
-- Blurweb.app (blurs video in realtime) - https://blurweb.app/
-- https://generated.photos/
-- Open Peeps - https://www.openpeeps.com/
-- Voiceovers - https://www.listnr.tech/
-- Profile Pic Maker - https://pfpmaker.com/
-- jitter - https://jitter.video/
-- Stockup (stock photos) - https://stockup.sitebuilderreport.com/ (NOT WORKING)
-- Pixabay (stock photos) - https://pixabay.com/
-- AllTheFreeStock (stock photos & videos) - https://allthefreestock.com/
-- https://kamua.com/
-- https://typestudio.co/
-- https://gohustl.co/
-- https://www.synthesia.io/
-- https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji?hl=en
-- https://clipdrop.co/
-- https://www.bannerbear.com/
-
+| Name | Description | URL |
+|---|---|---|
+| Photopea | Better than photoshop & it's in your browser for free | https://www.photopea.com/  |
+| mixkit | Free Videos b-roll type stuff | https://mixkit.co/ |
+|  |  | https://www.veed.io/ |
+|  |  | https://www.descript.com/ |
+| Blurweb.app | blurs video in realtime | https://blurweb.app/ |
+|  |  | https://generated.photos/ |
+| Open Peeps |  | https://www.openpeeps.com/ |
+| Voiceovers |  | https://www.listnr.tech/ |
+| Profile Pic Maker |  | https://pfpmaker.com/ |
+| Jitter |  | https://jitter.video/ |
+|  |  |  |
+| Pixabay |  | https://pixabay.com |
+| AllTheFreeStock |  | https://allthefrestock.com |
+|  |  | https://kamua.com/ |
+|  |  | https://typestudio.co/ |
+|  |  | https://gohustl.co/ |
+|  |  | https://www.synthesia.io/ |
+|  |  | https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji?hl=en |
+|  |  | https://clipdrop.co/ |
+|  |  | https://www.bannerbear.com/ |
 
 # Software Development
 
