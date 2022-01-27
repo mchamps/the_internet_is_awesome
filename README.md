@@ -1,19 +1,24 @@
 # Communication
 
-## Presentations & Design
-- mmhmm - https://www.mmhmm.app/
-- Pitch (kind of like presi) - https://pitch.com/
-- Canva (kind of like presi) - https://www.canva.com/
+### Presentations & Design
 
-## Writing
-- Speedwrite - https://speedwrite.com/
-- HyperWrite - https://hyperwriteai.com/
-- copy.ai - https://www.copy.ai/
-- https://capitalizemytitle.com/
-- https://snazzy.ai/
-- https://www.instructionalsolutions.com/jargon-grader
+| Name | Description | URL |
+| ------ | ------ | ------ |
+| mmhmm |  | https://www.mmhmm.app/ |
+| Pitch | Very close to prezi | https://pitch.com/ |
+| Canva |  | https://www.canva.com/ |
 
-## Marketing
+### Writing
+| Name | Description | URL |
+| ------ | ------ | ------ |
+| Speedwrite |  | https://speedwrite.com/ |
+| HyperWrite |  | https://hyperwriteai.com/ |
+| copy.ai |  | https://www.copy.ai/ |
+|  |  | https://capitalizemytitle.com/ |
+|  |  | https://snazzy.ai/ |
+|  |  | https://www.instructionalsolutions.com/jargon-grader |
+
+### Marketing
 - Billion Dollar Pitch Decks - https://www.billiondollarpitchdecks.com/
 - https://www.zerotomarketing.com/
 - https://improvmx.com/
