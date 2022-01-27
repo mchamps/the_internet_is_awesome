@@ -29,19 +29,19 @@
 |  |  | https://headlime.com/ |
 |  |  | https://chrome.google.com/webstore/detail/lavender/necbalcggglceeioaehdbkpbldmoabii?hl=en |
 
-## Forms
+### Forms
 | Name | Description | URL |
 |---|---|---|
 | Jotform |  | https://www.jotform.com/ |
 
-## Social
+### Social
 | Name | Description | URL |
 |---|---|---|
 | LinkedIn Social Selling Index |  | https://www.linkedin.com/sales/ssi|
 |  |  | https://hunter.io/ |
 |  |  | https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en |
 
-## Video & Photo Editing
+### Video & Photo Editing
 | Name | Description | URL |
 |---|---|---|
 | Photopea | Better than photoshop & it's in your browser for free | https://www.photopea.com/  |
@@ -66,7 +66,7 @@
 
 # Software Development
 
-## Coding
+### Coding
 - No Code Devs - https://www.nocodedevs.com/
 - copilot.github.com
 - Sourcery.ai (python refactoring) - https://sourcery.ai/
@@ -74,7 +74,7 @@
 - https://www.directual.com/
 - https://www.wappalyzer.com/
 
-## UI/UX
+### UI/UX
 - Framer - https://www.framer.com/
 - Mockuuups Studio - https://mockuuups.studio/
 - Graphite - https://graphite.space/
@@ -94,15 +94,15 @@
 - https://www.glorify.com/
 - https://webflow.com/
 
-## Data
+### Data
 - https://www.lobe.ai/
 
-## SEO
+### SEO
 - https://ahrefs.com/
 - https://www.seoptimer.com/
 - https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp?hl=en
 
-## File Sharing 
+### File Sharing 
 - https://wormhole.app/
 - https://snapdrop.net/
 
@@ -110,16 +110,16 @@
 
 Collection of interesting and useful python scripts.
 
-## General 
+### General 
 - Scheduling Jobs 101 - https://towardsdatascience.com/how-to-easily-automate-your-python-scripts-on-mac-and-windows-459388c9cc94
 
-## Bots
+### Bots
 - Southwest Checkin - https://github.com/pyro2927/SouthwestCheckin
 - PokemonGoF - https://github.com/PokemonGoF/PokemonGo-Bot
 - nvidia-sniper - https://github.com/philippnormann/nvidia-sniper
 - SerpentAI - https://github.com/SerpentAI/SerpentAI
 
-## Web Scraping
+### Web Scraping
 - AutoScraper - https://github.com/alirezamika/autoscraper
 
 
