@@ -1,3 +1,21 @@
+- [Communication](#communication)
+    + [Presentations & Design](#presentations---design)
+    + [Writing](#writing)
+    + [Marketing](#marketing)
+    + [Forms](#forms)
+    + [Social](#social)
+    + [Video & Photo Editing](#video---photo-editing)
+- [Software Development](#software-development)
+    + [Coding](#coding)
+    + [UI/UX](#ui-ux)
+    + [Data](#data)
+    + [SEO](#seo)
+    + [File Sharing](#file-sharing)
+- [Python Bots & Scripts](#python-bots---scripts)
+    + [General](#general)
+    + [Bots](#bots)
+    + [Web Scraping](#web-scraping)
+
 # Communication
 
 ### Presentations & Design
