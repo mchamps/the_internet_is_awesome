@@ -21,7 +21,7 @@
 ### Marketing
 | Name | Description | URL |
 |---|---|---|
-| Billion Dollar Pitch Decks |  | https://www.billiondollarpitchdecks.com/ |
+| Billion $ Pitch Decks |  | https://www.billiondollarpitchdecks.com/ |
 |  |  | https://www.zerotomarketing.com/ |
 |  |  | https://improvmx.com/ |
 | Really Good Emails |  | https://reallygoodemails.com/ |
