@@ -20,7 +20,7 @@
 
 ### Presentations & Design
 
-| Name | Description | URL |
+|Name |Description |URL |
 | ------ | ------ | ------ |
 | mmhmm |  | https://www.mmhmm.app/ |
 | Pitch | Very close to prezi | https://pitch.com/ |
